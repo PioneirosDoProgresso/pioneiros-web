@@ -1,0 +1,13 @@
+@prefix ct: <http://standards.iso.org/iso/21597/-1/ed-1/en/Container#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix obdc: <http://ontobdc.org/ontology/domain/ns.ttl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<urn:ontobdc:storage/local/.> a obdc:DataContainer ;
+    dcterms:identifier "urn:ontobdc:storage/local/." ;
+    dcterms:title "Storage Container: pioneiros-web"@en ;
+    ct:creationDate "2026-08-01T14:33:34.561543+00:00"^^xsd:dateTime ;
+    ct:description "Local storage container at Storage Container: pioneiros-web"@en ;
+    prov:atLocation <file:///Users/eliasmpjunior/dev/freemas/pioneiros-web> .
+

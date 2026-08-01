@@ -1,0 +1,288 @@
+{
+    "@context": "https://w3id.org/ro/crate/1.2/context",
+    "@graph": [
+        {
+            "@id": "./",
+            "@type": "Dataset",
+            "datePublished": "2026-08-01T14:33:34+00:00",
+            "hasPart": [
+                {
+                    "@id": ".git"
+                },
+                {
+                    "@id": ".gitignore"
+                },
+                {
+                    "@id": "README.md"
+                },
+                {
+                    "@id": "index.html"
+                },
+                {
+                    "@id": "legacy/site_loja/README.md"
+                },
+                {
+                    "@id": "legacy/site_loja/docker/.DS_Store"
+                },
+                {
+                    "@id": "legacy/site_loja/docker/composer/docker-compose-develop.yaml"
+                },
+                {
+                    "@id": "legacy/site_loja/docker/config/base.Dockerfile"
+                },
+                {
+                    "@id": "legacy/site_loja/docker/config/entrypoint.sh"
+                },
+                {
+                    "@id": "legacy/site_loja/incoming/index.html"
+                },
+                {
+                    "@id": "legacy/site_loja/incoming/style.css"
+                },
+                {
+                    "@id": "legacy/site_loja/incoming/unnamed%20%288%29.png"
+                },
+                {
+                    "@id": "legacy/site_loja/src/.DS_Store"
+                },
+                {
+                    "@id": "legacy/site_loja/src/manage.py"
+                },
+                {
+                    "@id": "legacy/site_loja/src/requirements.txt"
+                },
+                {
+                    "@id": "legacy/site_loja/src/templates/admin/base.html"
+                },
+                {
+                    "@id": "legacy/site_loja/src/templates/admin/base_site.html"
+                },
+                {
+                    "@id": "legacy/site_loja/src/templates/admin/color_theme_toggle.html"
+                },
+                {
+                    "@id": "legacy/site_loja/src/templates/admin/index.html"
+                },
+                {
+                    "@id": "legacy/site_loja/src/templates/admin/login.html"
+                },
+                {
+                    "@id": "legacy/site_loja/src/templates/admin/partials/menu.html"
+                },
+                {
+                    "@id": "legacy/site_loja/src/templates/admin/partials/navbar.html"
+                },
+                {
+                    "@id": "legacy/site_loja/src/web/__init__.py"
+                },
+                {
+                    "@id": "legacy/site_loja/src/web/asgi.py"
+                },
+                {
+                    "@id": "legacy/site_loja/src/web/settings.py"
+                },
+                {
+                    "@id": "legacy/site_loja/src/web/urls.py"
+                },
+                {
+                    "@id": "legacy/site_loja/src/web/wsgi.py"
+                },
+                {
+                    "@id": "legacy/site_loja/web/.DS_Store"
+                },
+                {
+                    "@id": "legacy/site_loja/web/public/.DS_Store"
+                },
+                {
+                    "@id": "legacy/site_loja/web/public/base.png"
+                },
+                {
+                    "@id": "legacy/site_loja/web/public/images/colunas.png"
+                },
+                {
+                    "@id": "legacy/site_loja/web/public/images/fita_centro.png"
+                },
+                {
+                    "@id": "legacy/site_loja/web/public/images/fita_inteira.png"
+                },
+                {
+                    "@id": "legacy/site_loja/web/public/images/fita_inteira.psdb"
+                },
+                {
+                    "@id": "legacy/site_loja/web/public/images/selo1968.png"
+                },
+                {
+                    "@id": "legacy/site_loja/web/public/images/templo.png"
+                },
+                {
+                    "@id": "legacy/site_loja/web/public/index.html"
+                },
+                {
+                    "@id": "legacy/site_loja/web/public/style.css"
+                }
+            ]
+        },
+        {
+            "@id": "ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "about": {
+                "@id": "./"
+            },
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.2"
+            }
+        },
+        {
+            "@id": ".git",
+            "@type": "File"
+        },
+        {
+            "@id": ".gitignore",
+            "@type": "File"
+        },
+        {
+            "@id": "README.md",
+            "@type": "File"
+        },
+        {
+            "@id": "index.html",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/README.md",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/docker/.DS_Store",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/docker/composer/docker-compose-develop.yaml",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/docker/config/base.Dockerfile",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/docker/config/entrypoint.sh",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/incoming/index.html",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/incoming/style.css",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/incoming/unnamed%20%288%29.png",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/.DS_Store",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/manage.py",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/requirements.txt",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/templates/admin/base.html",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/templates/admin/base_site.html",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/templates/admin/color_theme_toggle.html",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/templates/admin/index.html",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/templates/admin/login.html",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/templates/admin/partials/menu.html",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/templates/admin/partials/navbar.html",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/web/__init__.py",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/web/asgi.py",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/web/settings.py",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/web/urls.py",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/src/web/wsgi.py",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/web/.DS_Store",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/web/public/.DS_Store",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/web/public/base.png",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/web/public/images/colunas.png",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/web/public/images/fita_centro.png",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/web/public/images/fita_inteira.png",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/web/public/images/fita_inteira.psdb",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/web/public/images/selo1968.png",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/web/public/images/templo.png",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/web/public/index.html",
+            "@type": "File"
+        },
+        {
+            "@id": "legacy/site_loja/web/public/style.css",
+            "@type": "File"
+        }
+    ]
+}

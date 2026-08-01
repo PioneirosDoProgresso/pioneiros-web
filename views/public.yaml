@@ -1,0 +1,59 @@
+site:
+  lang: pt-BR
+  title: "A∴R∴L∴S∴ Pioneiros do Progresso nº 1731"
+  description: "Página institucional da A∴R∴L∴S∴ Pioneiros do Progresso nº 1731."
+  theme_color: "#531218"
+brand:
+  mark: "G"
+  name: "Pioneiros do Progresso"
+  subtitle: "A∴R∴L∴S∴ nº 1731"
+navigation:
+  - {label: "A Loja", href: "#loja"}
+  - {label: "História", href: "#historia"}
+  - {label: "Memórias", href: "#memorias"}
+  - {label: "Agenda", href: "#agenda"}
+  - {label: "Contato", href: "#contato"}
+login: {label: "Entrar", href: "#entrar"}
+hero:
+  eyebrow: "Grande Benfeitoria da Ordem"
+  title: "Pioneiros do Progresso"
+  subtitle: "A∴R∴L∴S∴ nº 1731 · fundada em 1968"
+  lead: "**6ª Loja Fundadora do Rito Brasileiro** \n Detentora constitucional do título por integrar o grupo das 12 primeiras Lojas do Rito."
+  primary: {label: "Conheça a Loja", href: "#loja"}
+  secondary: {label: "Nossa história", href: "#historia"}
+  image: "template/image/palacio_lavradio.jpg"
+  image_alt: "Banner comemorativo do Jubileu de Ouro da Loja Pioneiros do Progresso"
+  caption_left: "Escadaria do Palácio Maçônico do Lavradio"
+  caption_right: "2022 E∴V∴"
+ribbon: "Tradição · História · Trabalho · Progresso"
+sections:
+  intro:
+    eyebrow: "A Loja"
+    lead: "Fundada em 1968, a A∴R∴L∴S∴ Pioneiros do Progresso integra a história da reimplantação do Rito Brasileiro e preserva, ao longo de sua trajetória, uma identidade construída sobre tradição, trabalho e compromisso com seus princípios. Este espaço apresenta a Loja, sua origem, sua atuação e os registros que mantêm viva a memória de seus obreiros."
+    cards:
+      - {number: "01 · INSTITUCIONAL", title: "A Loja", body: "Apresentação, identidade, filiação, rito e atuação institucional."}
+      - {number: "02 · MEMÓRIA", title: "Nossa História", body: "Linha histórica, fundação, pioneirismo e marcos relevantes."}
+      - {number: "03 · VIDA DA LOJA", title: "Agenda Pública", body: "Sessões abertas, solenidades, eventos e atividades públicas."}
+  history:
+    year: "1968"
+    seal: "Fundação"
+    eyebrow: "Origens e fundação"
+    title: "Homenagem ao nosso decano Walker Andrade"
+    body: "A Sessão Magna Comemorativa do Jubileu de Ouro, realizada em 9 de novembro de 2018, celebrou os cinquenta anos de fundação da A∴R∴L∴S∴ Pioneiros do Progresso. A solenidade reuniu autoridades, IIr∴ e convidados em homenagem à trajetória da Loja e ao legado construído ao longo de cinco décadas de dedicação aos ideais do Rito Brasileiro."
+    link: {label: "Ver mais", href: "payload/view/jubileu.html"}
+  memories:
+    eyebrow: "Acervo e memória"
+    title: "Registros que preservam IIr∴, acontecimentos e símbolos."
+    lead: "Este espaço receberá fotografias, documentos, homenagens e marcos históricos relacionados entre si pelo container OntoBDC."
+  agenda:
+    eyebrow: "Agenda pública"
+    title: "Próximos encontros"
+    lead: "Conteúdo provisório para testar hierarquia, ritmo e comportamento responsivo."
+    items:
+      - {day: "00", month: "Mês", title: "Título do evento público", body: "Descrição breve, local e horário.", status: "Em definição"}
+      - {day: "00", month: "Mês", title: "Sessão ou solenidade", body: "Descrição breve, local e horário.", status: "Em definição"}
+      - {day: "00", month: "Mês", title: "Atividade institucional", body: "Descrição breve, local e horário.", status: "Em definição"}
+footer:
+  title: "A∴R∴L∴S∴ Pioneiros do Progresso nº 1731"
+  body: "Oficina maçônica fundada em 7 de novembro de 1968, comprometida com a preservação da tradição, da cultura e dos valores do Rito Brasileiro. \n Jurisdicionada ao Grande Oriente do Brasil – Rio de Janeiro."
+  symbol: "∴"
